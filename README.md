@@ -1,4 +1,4 @@
-# Random PAssword Generator
+# Random Password Generator
 
 ## Installation
 
@@ -17,12 +17,12 @@ Enter yes or no for lowercase
 Enter yes or no for special characters
 Password will be generated
 
-![picture of password generator with window alert describing instructions](./develop/capture.png)
+![picture of password generator with window alert describing instructions](./capture)
 
 ## Built With
 * HTML
 * CSS
-*Javascript
+* Javascript
 
 ## Website
 https://kalib-hicks.github.io/RandomNumberGenerator/
