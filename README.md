@@ -1,15 +1,41 @@
-GIVEN I need a new, secure password
-WHEN I click the button to generate a password
-THEN I am presented with a series of prompts for password criteria
-WHEN prompted for password criteria
-THEN I select which criteria to include in the password
-WHEN prompted for the length of the password
-THEN I choose a length of at least 8 characters and no more than 128 characters
-WHEN prompted for character types to include in the password
-THEN I choose lowercase, uppercase, numeric, and/or special characters
-WHEN I answer each prompt
-THEN my input should be validated and at least one character type should be selected
-WHEN all prompts are answered
-THEN a password is generated that matches the selected criteria
-WHEN the password is generated
-THEN the password is either displayed in an alert or written to the page
+# Random PAssword Generator
+
+## Installation
+
+This is a browser based product that uses javascript to function.
+​
+## Usage 
+​
+This product was designed to generate a random password following certain guidelines.
+
+Once on the page, an alert will explain how to get through the quetions to recieve your password. 
+
+Click generate to begin
+Enter desired length of password
+Enter yes or no for uppercase
+Enter yes or no for lowercase
+Enter yes or no for special characters
+Password will be generated
+
+![picture of password generator with window alert describing instructions](./develop/capture.png)
+
+## Built With
+* HTML
+* CSS
+*Javascript
+
+## Website
+https://kalib-hicks.github.io/RandomNumberGenerator/
+
+​
+​
+## Credits
+​
+Tutorials:
+https://codepen.io/dev_loop/pen/vYYxvbz
+https://www.theamplituhedron.com/projects/JavaScript-Random-Password-Generator/
+https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/conditionals
+
+​
+​
+​
