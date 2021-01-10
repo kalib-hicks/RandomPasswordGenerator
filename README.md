@@ -17,7 +17,8 @@ Enter yes or no for lowercase
 Enter yes or no for special characters
 Password will be generated
 
-![image of the random number generator and insctructions](./capture.png)
+![image of the random number generator and insctructions](./develop/capture.png)
+
 ## Built With
 * HTML
 * CSS
